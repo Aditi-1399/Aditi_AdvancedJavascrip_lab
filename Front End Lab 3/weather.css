@@ -1,0 +1,29 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5vw;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+div {
+    padding: 1vw;
+}
+
+#sBox {
+    height: 5vh;
+    font-size: 1.2rem;
+}
+
+#temperature {
+    font-size: 5rem;
+    color: white;
+    text-shadow: 5px 5px black;
+}
+
+#weatherDescription,
+#condition {
+    color: white;
+}
